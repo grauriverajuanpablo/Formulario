@@ -1,0 +1,23 @@
+#root {
+  width: 380px;
+  margin: 0 auto;
+  padding: 2.5rem;
+  text-align: center;
+  background-color: #fff;
+  color: #0e94f4;
+}
+
+body {
+  background: linear-gradient(to right, #1bcdf0, #ef05d4);
+}
+
+.social {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 5px;
+}
+
+.text-blue::placeholder {
+  color: rgb(158, 128, 157);
+}
