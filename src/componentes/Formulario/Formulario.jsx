@@ -2,6 +2,8 @@ import React, { useState } from 'react';
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 import Alert from '../Alert/Alert.jsx';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 
 function Formulario({ addAlert }) {
