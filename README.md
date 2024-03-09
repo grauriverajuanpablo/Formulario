@@ -1,4 +1,4 @@
-Este formulario cumple con los conceptos aprendidos para controlar los estados de los componentes en React y permite al usuario validar un formulario de registro utilizando los eventos onChange y onSubmit. Aquí te explico cómo:
+Formulario cumple con los conceptos aprendidos para controlar los estados de los componentes en React y permite al usuario validar un formulario de registro utilizando los eventos onChange y onSubmit.
 
 Uso de useState: El formulario utiliza el hook useState para controlar el estado de los campos del formulario. Cada vez que un campo cambia, se actualiza el estado correspondiente.
 
